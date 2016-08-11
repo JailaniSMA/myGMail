@@ -7,7 +7,7 @@ var SubContainer = React.createClass({
   },
 componentWillMount:function()
 {
-  console.log("shamini7");
+  console.log("jailani S M A");
   //console.log(this.props.messageData);
   var row=[];
     console.log(this.props.messageData.messages.length);
